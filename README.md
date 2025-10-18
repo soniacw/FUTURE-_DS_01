@@ -31,7 +31,9 @@ Source: [Superstore Dataset on Kaggle](https://www.kaggle.com/datasets/)
 ---
 
 ## 📋 Business Summary
-Sales peak in Q4, especially November and December, driven by Technology products in the West region. The South region shows higher profit margins, suggesting efficient operations. Recommendations include bundling top products, preparing inventory for seasonal demand, and focusing marketing efforts on high-margin regions.
+Sales peak in Q4, especially November and December, driven by Technology products in the West region. The South region shows higher profit margins, suggesting efficient operations. 
+
+Recommendations include bundling top products, preparing inventory for seasonal demand, and focusing marketing efforts on high-margin regions.
 
 ---
 
